@@ -41,7 +41,7 @@
     "core-js": "^3.11.2",
     "fitty": "^2.3.3",
     "glob": "^7.1.6",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^9.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-connect": "^5.7.0",
@@ -97,7 +97,7 @@
     }
   },
   "dependencies": {
-    "gulp-cli": "^2.3.0",
+    "gulp-cli": "^3.0.0",
     "yargs-parser": "^20.2.7"
   }
 }
